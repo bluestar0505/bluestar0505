@@ -69,6 +69,7 @@
         <a href="https://developers.line.biz" target="_blank" rel="noreferrer"> <img src="https://line.me/static/c5bc5abac963fd619ec6d22240641a90/621c6/icon-line.png" alt="Line" width="40" height="40"/> </a>
         <a href="https://developer.paypal.com/home/" target="_blank" rel="noreferrer"> <img src="https://www.paypalobjects.com/webstatic/developer/favicons/pp64.png" alt="Paypal" width="40" height="40"/> </a>
         <a href="https://stripe.dev" target="_blank" rel="noreferrer"> <img src="https://stripe.dev/images/stripe-logo.svg" alt="Stripe" width="40" height="40"/> </a>
+        <a href="https://www.gmo-pg.com/service/mulpay/" target="_blank" rel="noreferrer"> <img src="https://www.gmo-pg.com/corp/img/og/gmopg_logo_og_image.png" alt="GMO Payment" width="40" height="40"/> </a>
     </p>
 </li>
 
@@ -77,13 +78,13 @@
         <a href="https://www.centos.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a>
         <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/> </a>
+        <a href="https://rs.sakura.ad.jp/" target="_blank" rel="noreferrer"> <img src="https://rs.sakura.ad.jp/lp/logo/images/logo_centered.png" alt="さくらレンタルサーバ" width="60" /> </a>
+        <a href="https://www.xserver.ne.jp/" target="_blank" rel="noreferrer"> <img src="https://www.xserver.ne.jp/img/common/favicon.ico" alt="エックスサーバー" width="40" /> </a>
         <a href="https://heroku.com/apps" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="40" height="40"/> </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
         <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a>
-        <br><a href="https://rs.sakura.ad.jp/">★さくらレンタルサーバ（SAKURA Reantal Server）★</a>
-        <br><a href="https://www.xserver.ne.jp/">★エックスサーバー（XServer）★</a>
     </p>
 </li>
 
