@@ -25,7 +25,7 @@
 <li> PHP & Ruby Framework
     <p align="left">
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-        <a href="https://cakephp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-plain-wordmark.svg" alt="cakephp" width="40" height="40"/> </a>
+        <a href="https://cakephp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original-wordmark.svg" alt="cakephp" width="40" height="40"/> </a>
         <a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain-wordmark.svg" alt="yii" width="40" height="40"/> </a>
         <a href="https://codeigniter.com//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/> </a>
         <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
@@ -82,6 +82,8 @@
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
         <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a>
+        <br><a href="https://rs.sakura.ad.jp/">★さくらレンタルサーバ（SAKURA Reantal Server）★</a>
+        <br><a href="https://www.xserver.ne.jp/">★エックスサーバー（XServer）★</a>
     </p>
 </li>
 
