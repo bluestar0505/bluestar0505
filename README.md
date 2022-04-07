@@ -70,6 +70,8 @@
         <a href="https://developer.paypal.com/home/" target="_blank" rel="noreferrer"> <img src="https://www.paypalobjects.com/webstatic/developer/favicons/pp64.png" alt="Paypal" width="40" height="40"/> </a>
         <a href="https://stripe.dev" target="_blank" rel="noreferrer"> <img src="https://stripe.dev/images/stripe-logo.svg" alt="Stripe" width="40" height="40"/> </a>
         <a href="https://www.gmo-pg.com/service/mulpay/" target="_blank" rel="noreferrer"> <img src="https://www.gmo-pg.com/corp/img/og/gmopg_logo_og_image.png" alt="GMO Payment" width="40" height="40"/> </a>
+        <a href="https://pay.jp/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/948466907790782465/PqEFWEzE_400x400.jpg" alt="Pay.jp" width="40" style="vertical-align: middle"/> </a>
+        <a href="https://squareup.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGcAgQTSFeHmXt4weVriAT4yLDHH2OJkS5Q&usqp=CAU" alt="Square" width="40" style="vertical-align: middle"/> </a>
     </p>
 </li>
 
