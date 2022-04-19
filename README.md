@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Blockchain and Full Stack Web Developer.</h1>
+<h1 align="center">Hi👋, I'm a Full-stack and Blockchain Developer.</h1>
 <p>
   <a href="https://github.com/bluestar0505/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bluestar0505&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
