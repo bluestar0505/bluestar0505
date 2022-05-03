@@ -8,20 +8,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bluestar0505&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
   </a>
  </p>  
+ <!-- Profile Views -->
+ <div style="display:flex;justify-content:center;">
+ <img src="https://komarev.com/ghpvc/?username=royrustdev&label=Profile%20views&color=0e75b6&style=flat" alt="Github Profile Views of royrustdev" />
+ </div>
+ 
  
 ## 🔧 Skills
 
 <ul>
-<li> Blockchain
-    <p align="left">
-        <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" alt="solana" width="40" height="40"/> </a>
-        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-        <a href="https://project-serum.github.io/anchor/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0542190d13e5a50f7d601abc4bfde84cf02af2ca786af519e78411f43f3ca9c0/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3831333434343531343934393130333635382f3839303237383532303535333630333039322f6578706f72742e706e673f77696474683d373436266865696768743d373436" alt="anchor" width="40" height="40"/> </a>
-        <a href="https://ethers.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" alt="ethereum" width="40" height="40"/> </a>
-        <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
-    </p>
-</li>
-
 <li> PHP & Ruby Framework
     <p align="left">
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
@@ -34,6 +29,17 @@
         <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/> </a>
     </p>
 </li>
+
+<li> Blockchain
+    <p align="left">
+        <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" alt="solana" width="40" height="40"/> </a>
+        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+        <a href="https://project-serum.github.io/anchor/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0542190d13e5a50f7d601abc4bfde84cf02af2ca786af519e78411f43f3ca9c0/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3831333434343531343934393130333635382f3839303237383532303535333630333039322f6578706f72742e706e673f77696474683d373436266865696768743d373436" alt="anchor" width="40" height="40"/> </a>
+        <a href="https://ethers.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" alt="ethereum" width="40" height="40"/> </a>
+        <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
+    </p>
+</li>
+
 
 <li> Node & Typescript & Frontend
     <p align="left">
